@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Sign Up App</string>
+    <string name="signUp">Sign up</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="alreay_have_account">Already have an account?</string>
+    <string name="welcome_to_chato_app">Welcome to Chato App</string>
+    <string name="enjoy_our_app">Enjoy our app</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
 </resources>
